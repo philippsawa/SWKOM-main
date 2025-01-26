@@ -11,3 +11,16 @@ C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\refint\SWKOM_SAWA_KIM.RabbitMQ.dll
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.pdb
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\ref\SWKOM_SAWA_KIM.RabbitMQ.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\bin\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.deps.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\bin\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\bin\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.AssemblyInfo.cs
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.sourcelink.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\refint\SWKOM_SAWA_KIM.RabbitMQ.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\SWKOM_SAWA_KIM.RabbitMQ.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.RabbitMQ\obj\Debug\net8.0\ref\SWKOM_SAWA_KIM.RabbitMQ.dll

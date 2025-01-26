@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using SWKOM_SAWA_KIM.DAL.Data;
 using SWKOM_SAWA_KIM.DAL.Entities;
 using System;
@@ -44,7 +45,6 @@ namespace SWKOM_SAWA_KIM.DAL.Repositories
             var document = await _context.Documents.FindAsync(id);
             if (document == null)
             {
-                // throw exception
                 return;
             }
 

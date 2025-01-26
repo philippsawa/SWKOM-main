@@ -11,3 +11,16 @@ C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\refint\SWKOM_SAWA_KIM.Minio.dll
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.pdb
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\ref\SWKOM_SAWA_KIM.Minio.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\bin\Debug\net8.0\SWKOM_SAWA_KIM.Minio.deps.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\bin\Debug\net8.0\SWKOM_SAWA_KIM.Minio.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\bin\Debug\net8.0\SWKOM_SAWA_KIM.Minio.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.csproj.AssemblyReference.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.AssemblyInfoInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.AssemblyInfo.cs
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.csproj.CoreCompileInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.sourcelink.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\refint\SWKOM_SAWA_KIM.Minio.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\SWKOM_SAWA_KIM.Minio.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.Minio\obj\Debug\net8.0\ref\SWKOM_SAWA_KIM.Minio.dll

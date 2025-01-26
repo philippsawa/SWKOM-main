@@ -49,6 +49,7 @@ namespace SWKOM_SAWA_KIM.Controllers
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex, "An error occurred while getting all documents");
                 return StatusCode(500, $"An error occurred: {ex.Message}");
             }
         }
@@ -70,6 +71,7 @@ namespace SWKOM_SAWA_KIM.Controllers
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex, "An error occurred while searching documents");
                 return BadRequest(ex.Message);
             }
         }
@@ -112,6 +114,7 @@ namespace SWKOM_SAWA_KIM.Controllers
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex, "An error occurred while uploading the document");
                 return BadRequest(ex.Message);
             }
         }

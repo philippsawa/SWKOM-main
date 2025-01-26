@@ -63,6 +63,7 @@ namespace SWKOM_SAWA_KIM.Workers
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex, "An error occurred while processing the result");
                 // log exception
             }
         }

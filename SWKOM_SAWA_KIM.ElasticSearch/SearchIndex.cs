@@ -5,17 +5,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 
 namespace SWKOM_SAWA_KIM.ElasticSearch
 {
     public class SearchIndex : ISearchIndex
     {
         private readonly Uri _uri;
+        private readonly ILogger<SearchIndex> _logger;
 
-        public SearchIndex(IConfiguration config)
+        public SearchIndex(IConfiguration config, ILogger<SearchIndex> logger)
         {
             var url = config.GetSection("ElasticSearchOptions:Url").Value;
             _uri = new Uri(url);
+            _logger = logger;
         }
 
         public void AddDocumentAsync(SearchDocumentEntity document)
@@ -28,6 +31,7 @@ namespace SWKOM_SAWA_KIM.ElasticSearch
             var indexResponse = elasticClient.Index(document, "documents");
             if (!indexResponse.IsSuccess())
             {
+                _logger.LogError($"Failed to index document with id {document.Id}");
                 return;
             }
         }

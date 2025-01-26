@@ -22,3 +22,16 @@ C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\refint\SWKOM_SAWA_KIM.UI.dll
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.pdb
 C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\ref\SWKOM_SAWA_KIM.UI.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\bin\Debug\net8.0\SWKOM_SAWA_KIM.UI.deps.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\bin\Debug\net8.0\SWKOM_SAWA_KIM.UI.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\bin\Debug\net8.0\SWKOM_SAWA_KIM.UI.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.csproj.AssemblyReference.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.AssemblyInfoInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.AssemblyInfo.cs
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.csproj.CoreCompileInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.sourcelink.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\refint\SWKOM_SAWA_KIM.UI.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\SWKOM_SAWA_KIM.UI.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM-main\SWKOM_SAWA_KIM.UI\obj\Debug\net8.0\ref\SWKOM_SAWA_KIM.UI.dll

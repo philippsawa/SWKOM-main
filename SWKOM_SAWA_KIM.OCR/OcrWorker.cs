@@ -36,6 +36,7 @@ namespace SWKOM_SAWA_KIM.OCR
             {
                 if (stoppingToken.IsCancellationRequested)
                 {
+                    _logger.LogError("Cancellation requested");
                     return;
                 }
 
@@ -50,6 +51,7 @@ namespace SWKOM_SAWA_KIM.OCR
                 }
                 catch(Exception ex)
                 {
+                    _logger.LogError(ex, "Error processing OCR");
                     // log exception
                 }
             };
@@ -69,6 +71,7 @@ namespace SWKOM_SAWA_KIM.OCR
 
                 if (documentStream == null)
                 {
+                    _logger.LogError($"Document with id {id} not found");   
                     return;
                 }
 
@@ -91,6 +94,7 @@ namespace SWKOM_SAWA_KIM.OCR
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex, "Error processing OCR");
             }
         }
     }

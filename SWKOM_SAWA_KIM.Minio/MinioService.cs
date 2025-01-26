@@ -59,6 +59,7 @@ namespace SWKOM_SAWA_KIM.Minio
             catch (Exception ex)
             {
                 // log exception tbd
+                _logger.LogError($"MinioService: Document {id} upload failed.");
                 throw;
             }
         }
@@ -84,6 +85,7 @@ namespace SWKOM_SAWA_KIM.Minio
             catch (Exception ex)
             {
                 // log exception tbd
+                _logger.LogError($"MinioService: Document {id} download failed.");
                 throw;
             }
         }

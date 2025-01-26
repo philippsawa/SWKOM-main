@@ -12,11 +12,20 @@ using System.Threading.Tasks;
 using AutoMapper;
 using SWKOM_SAWA_KIM.BLL.Mappings;
 using SWKOM_SAWA_KIM.BLL.Validators;
+using Microsoft.Extensions.Logging;
 
 namespace SWKOM_SAWA_KIM.Tests
 {
     internal class DocumentServiceTests
     {
+        private Mock<ILogger<DocumentService>> _mockLogger;
+
+        [SetUp]
+        public void Setup()
+        {
+            _mockLogger = new Mock<ILogger<DocumentService>>();
+        }
+
         [Test]
         public async Task GetDocumentByIdAsync_ShouldReturnDocument_WhenDocumentExists()
         {
@@ -33,7 +42,7 @@ namespace SWKOM_SAWA_KIM.Tests
             mockMapper.Setup(mapper => mapper.Map<DocumentDTO>(document))
                       .Returns(documentDTO);
 
-            var service = new DocumentService(mockRepository.Object, mockMapper.Object, Mock.Of<ISearchIndex>());
+            var service = new DocumentService(mockRepository.Object, mockMapper.Object, Mock.Of<ISearchIndex>(), _mockLogger.Object);
 
             // Act
             var result = await service.GetDocumentByIdAsync(documentId);
@@ -107,7 +116,7 @@ namespace SWKOM_SAWA_KIM.Tests
             mockMapper.Setup(mapper => mapper.Map<IEnumerable<DocumentDTO>>(documents))
                       .Returns(documentDTOs);
 
-            var service = new DocumentService(mockRepository.Object, mockMapper.Object, Mock.Of<ISearchIndex>());
+            var service = new DocumentService(mockRepository.Object, mockMapper.Object, Mock.Of<ISearchIndex>(), _mockLogger.Object);
 
             // Act
             var result = await service.GetAllDocumentsAsync();
@@ -129,7 +138,7 @@ namespace SWKOM_SAWA_KIM.Tests
             var mockMapper = new Mock<IMapper>();
             mockMapper.Setup(mapper => mapper.Map<Document>(documentDTO)).Returns(document);
 
-            var service = new DocumentService(mockRepository.Object, mockMapper.Object, Mock.Of<ISearchIndex>());
+            var service = new DocumentService(mockRepository.Object, mockMapper.Object, Mock.Of<ISearchIndex>(), _mockLogger.Object);
 
             // Act
             await service.AddDocumentAsync(documentDTO);
@@ -150,7 +159,7 @@ namespace SWKOM_SAWA_KIM.Tests
             mockRepository.Setup(repo => repo.GetDocumentByIdAsync(documentId))
                           .ReturnsAsync(existingDocument);
 
-            var service = new DocumentService(mockRepository.Object, Mock.Of<IMapper>(), Mock.Of<ISearchIndex>());
+            var service = new DocumentService(mockRepository.Object, Mock.Of<IMapper>(), Mock.Of<ISearchIndex>(), _mockLogger.Object);
 
             // Act
             await service.UpdateDocumentAsync(documentId, "New content");
@@ -175,7 +184,7 @@ namespace SWKOM_SAWA_KIM.Tests
             mockSearchIndex.Setup(index => index.SearchDocumentAsync(query))
                            .Returns(searchResults);
 
-            var service = new DocumentService(Mock.Of<IDocumentRepository>(), Mock.Of<IMapper>(), mockSearchIndex.Object);
+            var service = new DocumentService(Mock.Of<IDocumentRepository>(), Mock.Of<IMapper>(), mockSearchIndex.Object, _mockLogger.Object);
 
             // Act
             var result = service.SearchDocuments(query);

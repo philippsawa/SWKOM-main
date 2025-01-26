@@ -18,12 +18,14 @@ namespace SWKOM_SAWA_KIM.BLL.Services
         private readonly IDocumentRepository _documentRepository;
         private readonly IMapper _mapper;
         private readonly ISearchIndex _searchIndex;
+        private readonly ILogger<DocumentService> _logger;
 
-        public DocumentService(IDocumentRepository documentRepository, IMapper mapper, ISearchIndex searchIndex)
+        public DocumentService(IDocumentRepository documentRepository, IMapper mapper, ISearchIndex searchIndex, ILogger<DocumentService> logger)
         {
             _documentRepository = documentRepository;
             _mapper = mapper;
             _searchIndex = searchIndex;
+            _logger = logger;
         }
 
         public async Task<IEnumerable<DocumentDTO>> GetAllDocumentsAsync()
@@ -39,6 +41,7 @@ namespace SWKOM_SAWA_KIM.BLL.Services
             if (document == null)
             {
                 // throw exception
+                _logger.LogError($"Document with id {id} not found");
                 return null;
             }
 
@@ -59,6 +62,7 @@ namespace SWKOM_SAWA_KIM.BLL.Services
             if(document == null)
             {
                 // throw exception
+                _logger.LogError($"Document with id {id} not found");
                 return;
             }
 
