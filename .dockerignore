@@ -1,0 +1,25 @@
+# Exclude the entire .git directory
+.git
+
+# Exclude build output directories
+bin/
+obj/
+
+# Exclude user-specific files and IDE settings
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Exclude temporary files
+*.log
+*.tmp
+
+# Exclude Docker files (if not needed in the build context)
+Dockerfile*
+docker-compose*
+
+# Exclude node_modules (if any)
+node_modules/
+
+# Exclude other unnecessary files

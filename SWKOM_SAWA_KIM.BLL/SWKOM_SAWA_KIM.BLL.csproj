@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.1" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SWKOM_SAWA_KIM.DAL\SWKOM_SAWA_KIM.DAL.csproj" />
+    <ProjectReference Include="..\SWKOM_SAWA_KIM.ElasticSearch\SWKOM_SAWA_KIM.ElasticSearch.csproj" />
+    <ProjectReference Include="..\SWKOM_SAWA_KIM.RabbitMQ\SWKOM_SAWA_KIM.RabbitMQ.csproj" />
+  </ItemGroup>
+
+</Project>

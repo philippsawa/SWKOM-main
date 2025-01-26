@@ -1,0 +1,657 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3DB78-8053-43CA-B8DE-EEBC2A4A5DED}|SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.tests\\documentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D3DB78-8053-43CA-B8DE-EEBC2A4A5DED}|SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj|solutionrelative:swkom_sawa_kim.tests\\documentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3DB78-8053-43CA-B8DE-EEBC2A4A5DED}|SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.tests\\daltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D3DB78-8053-43CA-B8DE-EEBC2A4A5DED}|SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj|solutionrelative:swkom_sawa_kim.tests\\daltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3DB78-8053-43CA-B8DE-EEBC2A4A5DED}|SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.tests\\swkom_sawa_kim.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80D3DB78-8053-43CA-B8DE-EEBC2A4A5DED}|SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj|solutionrelative:swkom_sawa_kim.tests\\swkom_sawa_kim.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\resultqueueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\resultqueueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\queuereceivedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\queuereceivedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\queueoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\queueoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\queueproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\queueproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\iqueueproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\iqueueproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.rabbitmq\\iqueueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CFFF70-BC8E-469D-9044-9996DE739EC2}|SWKOM_SAWA_KIM.RabbitMQ\\SWKOM_SAWA_KIM.RabbitMQ.csproj|solutionrelative:swkom_sawa_kim.rabbitmq\\iqueueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD305F00-91CA-4713-ADC5-CC4DE74C8958}|SWKOM_SAWA_KIM.Minio\\SWKOM_SAWA_KIM.Minio.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.minio\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD305F00-91CA-4713-ADC5-CC4DE74C8958}|SWKOM_SAWA_KIM.Minio\\SWKOM_SAWA_KIM.Minio.csproj|solutionrelative:swkom_sawa_kim.minio\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6738B-2448-494C-AE0B-40930BD3028E}|SWKOM_SAWA_KIM.DAL\\SWKOM_SAWA_KIM.DAL.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.dal\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6738B-2448-494C-AE0B-40930BD3028E}|SWKOM_SAWA_KIM.DAL\\SWKOM_SAWA_KIM.DAL.csproj|solutionrelative:swkom_sawa_kim.dal\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD305F00-91CA-4713-ADC5-CC4DE74C8958}|SWKOM_SAWA_KIM.Minio\\SWKOM_SAWA_KIM.Minio.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.minio\\iminioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD305F00-91CA-4713-ADC5-CC4DE74C8958}|SWKOM_SAWA_KIM.Minio\\SWKOM_SAWA_KIM.Minio.csproj|solutionrelative:swkom_sawa_kim.minio\\iminioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E4AF9C-5B42-4534-8A22-4E7EDF53EF33}|SWKOM_SAWA_KIM.ElasticSearch\\SWKOM_SAWA_KIM.ElasticSearch.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.elasticsearch\\searchindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E4AF9C-5B42-4534-8A22-4E7EDF53EF33}|SWKOM_SAWA_KIM.ElasticSearch\\SWKOM_SAWA_KIM.ElasticSearch.csproj|solutionrelative:swkom_sawa_kim.elasticsearch\\searchindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E4AF9C-5B42-4534-8A22-4E7EDF53EF33}|SWKOM_SAWA_KIM.ElasticSearch\\SWKOM_SAWA_KIM.ElasticSearch.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.elasticsearch\\searchdocumententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E4AF9C-5B42-4534-8A22-4E7EDF53EF33}|SWKOM_SAWA_KIM.ElasticSearch\\SWKOM_SAWA_KIM.ElasticSearch.csproj|solutionrelative:swkom_sawa_kim.elasticsearch\\searchdocumententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E4AF9C-5B42-4534-8A22-4E7EDF53EF33}|SWKOM_SAWA_KIM.ElasticSearch\\SWKOM_SAWA_KIM.ElasticSearch.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.elasticsearch\\isearchindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E4AF9C-5B42-4534-8A22-4E7EDF53EF33}|SWKOM_SAWA_KIM.ElasticSearch\\SWKOM_SAWA_KIM.ElasticSearch.csproj|solutionrelative:swkom_sawa_kim.elasticsearch\\isearchindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6738B-2448-494C-AE0B-40930BD3028E}|SWKOM_SAWA_KIM.DAL\\SWKOM_SAWA_KIM.DAL.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.dal\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6738B-2448-494C-AE0B-40930BD3028E}|SWKOM_SAWA_KIM.DAL\\SWKOM_SAWA_KIM.DAL.csproj|solutionrelative:swkom_sawa_kim.dal\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6738B-2448-494C-AE0B-40930BD3028E}|SWKOM_SAWA_KIM.DAL\\SWKOM_SAWA_KIM.DAL.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.dal\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6738B-2448-494C-AE0B-40930BD3028E}|SWKOM_SAWA_KIM.DAL\\SWKOM_SAWA_KIM.DAL.csproj|solutionrelative:swkom_sawa_kim.dal\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.bll\\dtos\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|solutionrelative:swkom_sawa_kim.bll\\dtos\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.bll\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|solutionrelative:swkom_sawa_kim.bll\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.bll\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|solutionrelative:swkom_sawa_kim.bll\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ocr\\ocrworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|solutionrelative:swkom_sawa_kim.ocr\\ocrworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ocr\\ocrclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|solutionrelative:swkom_sawa_kim.ocr\\ocrclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ocr\\iocrclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|solutionrelative:swkom_sawa_kim.ocr\\iocrclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ocr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|solutionrelative:swkom_sawa_kim.ocr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim\\workers\\resultqueueworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|solutionrelative:swkom_sawa_kim\\workers\\resultqueueworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ocr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|solutionrelative:swkom_sawa_kim.ocr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|solutionrelative:swkom_sawa_kim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|solutionrelative:swkom_sawa_kim\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.bll\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFB575E-EE73-4C12-89FD-F4C86A92A807}|SWKOM_SAWA_KIM.BLL\\SWKOM_SAWA_KIM.BLL.csproj|solutionrelative:swkom_sawa_kim.bll\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|solutionrelative:swkom_sawa_kim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7B244-D442-4CFB-ACFC-CFD26AC2A631}|SWKOM_SAWA_KIM.UI\\SWKOM_SAWA_KIM.UI.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ui\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54F7B244-D442-4CFB-ACFC-CFD26AC2A631}|SWKOM_SAWA_KIM.UI\\SWKOM_SAWA_KIM.UI.csproj|solutionrelative:swkom_sawa_kim.ui\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7B244-D442-4CFB-ACFC-CFD26AC2A631}|SWKOM_SAWA_KIM.UI\\SWKOM_SAWA_KIM.UI.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ui\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{54F7B244-D442-4CFB-ACFC-CFD26AC2A631}|SWKOM_SAWA_KIM.UI\\SWKOM_SAWA_KIM.UI.csproj|solutionrelative:swkom_sawa_kim.ui\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C7F48AD-878D-4C30-B85A-480A45A7CF2A}|SWKOM_SAWA_KIM\\SWKOM_SAWA_KIM.csproj|solutionrelative:swkom_sawa_kim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|c:\\users\\minu\\downloads\\swkom-main\\swkom-main\\swkom_sawa_kim.ocr\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6EA489A-49FA-4198-A8AF-6B24B8F90F68}|SWKOM_SAWA_KIM.OCR\\SWKOM_SAWA_KIM.OCR.csproj|solutionrelative:swkom_sawa_kim.ocr\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CF67F4-0220-4ACA-96AB-5A2B63757BC3}|Solution Items{19CF67F4-0220-4ACA-96AB-5A2B63757BC3}|C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19CF67F4-0220-4ACA-96AB-5A2B63757BC3}|Solution Items{19CF67F4-0220-4ACA-96AB-5A2B63757BC3}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SWKOM_SAWA_KIM.Tests",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.Tests\\SWKOM_SAWA_KIM.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T16:13:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALTests.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Tests\\DALTests.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.Tests\\DALTests.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Tests\\DALTests.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.Tests\\DALTests.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAUwLMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:14:32.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Tests\\DocumentServiceTests.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.Tests\\DocumentServiceTests.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Tests\\DocumentServiceTests.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.Tests\\DocumentServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:03:43.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchIndex.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.ElasticSearch\\SearchIndex.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.ElasticSearch\\SearchIndex.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.ElasticSearch\\SearchIndex.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.ElasticSearch\\SearchIndex.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:38:07.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISearchIndex.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.ElasticSearch\\ISearchIndex.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.ElasticSearch\\ISearchIndex.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.ElasticSearch\\ISearchIndex.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.ElasticSearch\\ISearchIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:37:19.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchDocumentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.ElasticSearch\\SearchDocumentEntity.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.ElasticSearch\\SearchDocumentEntity.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.ElasticSearch\\SearchDocumentEntity.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.ElasticSearch\\SearchDocumentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:24:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.DAL\\Repositories\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.DAL\\Repositories\\DocumentRepository.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.DAL\\Repositories\\DocumentRepository.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.DAL\\Repositories\\DocumentRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAxwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:41:58.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.DAL\\Repositories\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.DAL\\Repositories\\IDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.DAL\\Repositories\\IDocumentRepository.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.DAL\\Repositories\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:44:01.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\appsettings.json",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.OCR\\appsettings.json",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\appsettings.json",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.OCR\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T10:23:27.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MinioService.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Minio\\MinioService.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.Minio\\MinioService.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Minio\\MinioService.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.Minio\\MinioService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T09:09:17.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMinioService.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Minio\\IMinioService.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.Minio\\IMinioService.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.Minio\\IMinioService.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.Minio\\IMinioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:58:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\Dockerfile",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.OCR\\Dockerfile",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\Dockerfile",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.OCR\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-25T17:40:31.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ResultQueueWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Workers\\ResultQueueWorker.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM\\Workers\\ResultQueueWorker.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Workers\\ResultQueueWorker.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM\\Workers\\ResultQueueWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:55:36.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OcrWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\OcrWorker.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.OCR\\OcrWorker.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\OcrWorker.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.OCR\\OcrWorker.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:25:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OcrClient.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\OcrClient.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.OCR\\OcrClient.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\OcrClient.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.OCR\\OcrClient.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:38:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOcrClient.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\IOcrClient.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.OCR\\IOcrClient.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\IOcrClient.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.OCR\\IOcrClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:38:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\Program.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.OCR\\Program.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.OCR\\Program.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.OCR\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:53:46.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueReceivedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueReceivedEventArgs.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\QueueReceivedEventArgs.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueReceivedEventArgs.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\QueueReceivedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:20:48.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Dockerfile",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM\\Dockerfile",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Dockerfile",
+              "RelativeToolTip": "SWKOM_SAWA_KIM\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-24T23:34:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\appsettings.json",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM\\appsettings.json",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\appsettings.json",
+              "RelativeToolTip": "SWKOM_SAWA_KIM\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T23:21:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueueOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueOptions.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\QueueOptions.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueOptions.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\QueueOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:15:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultQueueConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\ResultQueueConsumer.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\ResultQueueConsumer.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\ResultQueueConsumer.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\ResultQueueConsumer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:10:49.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueueConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueConsumer.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\QueueConsumer.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueConsumer.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\QueueConsumer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAA1wHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:21:50.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IQueueConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\IQueueConsumer.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\IQueueConsumer.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\IQueueConsumer.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\IQueueConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:20:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueProducer.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\QueueProducer.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\QueueProducer.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\QueueProducer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:11:49.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IQueueProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\IQueueProducer.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\IQueueProducer.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\IQueueProducer.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\IQueueProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:11:12.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.RabbitMQ\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.RabbitMQ\\RabbitMQService.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.RabbitMQ\\RabbitMQService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:38:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.BLL\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\Services\\DocumentService.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.BLL\\Services\\DocumentService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAxwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:04:20.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.BLL\\Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\Services\\IDocumentService.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.BLL\\Services\\IDocumentService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:01:06.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.BLL\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\DependencyInjection.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.BLL\\DependencyInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:57:03.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.DAL\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.DAL\\Entities\\Document.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.DAL\\Entities\\Document.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.DAL\\Entities\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:17:33.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DocumentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\DTOs\\DocumentDTO.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.BLL\\DTOs\\DocumentDTO.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.BLL\\DTOs\\DocumentDTO.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.BLL\\DTOs\\DocumentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:18:06.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAywFgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:36:37.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.UI\\js\\site.js",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.UI\\js\\site.js",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.UI\\js\\site.js",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.UI\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T05:35:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.UI\\index.html",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM.UI\\index.html",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM.UI\\index.html",
+              "RelativeToolTip": "SWKOM_SAWA_KIM.UI\\index.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-09T05:33:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Program.cs",
+              "RelativeDocumentMoniker": "SWKOM_SAWA_KIM\\Program.cs",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\SWKOM_SAWA_KIM\\Program.cs",
+              "RelativeToolTip": "SWKOM_SAWA_KIM\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:25:36.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Minu\\Downloads\\SWKOM-main\\SWKOM-main\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAewGYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-08T21:11:18.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

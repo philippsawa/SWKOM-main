@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SWKOM_SAWA_KIM.props" />
+</Project>

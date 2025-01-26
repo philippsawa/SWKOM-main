@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SWKOM_SAWA_KIM.OCR": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

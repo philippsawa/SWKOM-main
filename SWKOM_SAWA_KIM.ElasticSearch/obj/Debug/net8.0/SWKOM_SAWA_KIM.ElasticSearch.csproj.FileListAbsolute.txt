@@ -1,0 +1,13 @@
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\bin\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.deps.json
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\bin\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.dll
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\bin\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.pdb
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.csproj.AssemblyReference.cache
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.AssemblyInfoInputs.cache
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.AssemblyInfo.cs
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.csproj.CoreCompileInputs.cache
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.sourcelink.json
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.dll
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\refint\SWKOM_SAWA_KIM.ElasticSearch.dll
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\SWKOM_SAWA_KIM.ElasticSearch.pdb
+C:\Users\Minu\Downloads\SWKOM-main\SWKOM-main\SWKOM_SAWA_KIM.ElasticSearch\obj\Debug\net8.0\ref\SWKOM_SAWA_KIM.ElasticSearch.dll

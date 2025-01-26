@@ -1,0 +1,126 @@
+version: '3.8'
+
+services:
+  webserver:
+    build:
+      context: .
+      dockerfile: SWKOM_SAWA_KIM/Dockerfile
+    ports:
+      - "8081:8081"
+    environment:
+      - ASPNETCORE_URLS=http://+:8081
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__dbConnectionString=Host=postgres;Database=swkomdb;Username=sawakim;Password=sawakim
+    networks:
+      - app-network
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  webui:
+    build:
+      context: .
+      dockerfile: SWKOM_SAWA_KIM.UI/Dockerfile
+    ports:
+      - "80:80"
+    networks:
+      - app-network
+    depends_on:
+      - webserver
+
+  postgres:
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=sawakim
+      - POSTGRES_PASSWORD=sawakim
+      - POSTGRES_DB=swkomdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sawakim -d swkomdb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: sawakim
+      RABBITMQ_DEFAULT_PASS: sawakim
+    networks:
+      - app-network
+    healthcheck:
+        test: ["CMD-SHELL", "rabbitmq-diagnostics -q ping"]
+        interval: 10s
+        timeout: 5s
+        retries: 5
+  
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports:
+      - "9000:9000" # API port
+      - "9001:9001" # Console UI port
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    command: server /data --console-address ":9001"
+    volumes:
+      - minio-data:/data
+    networks:
+      - app-network
+
+  ocrservice:
+    build:
+      context: .
+      dockerfile: SWKOM_SAWA_KIM.OCR/Dockerfile
+    networks:
+      - app-network
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    volumes:
+      - ./SWKOM_SAWA_KIM.OCR/tessdata:/app/tessdata
+      - ./SWKOM_SAWA_KIM.OCR/docs:/app/docs
+
+  elasticsearch:
+    image: elasticsearch:8.7.1
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node         # For dev, single-node cluster
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"   
+      - "xpack.security.enabled=false"     # Disabling security for dev
+      - "xpack.security.enrollment.enabled=false"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    networks:
+      - app-network
+    # Optional healthcheck
+    healthcheck:
+      test: ["CMD-SHELL", "curl -s http://localhost:9200/_cluster/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  minio-data:  

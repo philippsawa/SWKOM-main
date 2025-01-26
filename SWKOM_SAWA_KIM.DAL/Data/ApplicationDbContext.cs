@@ -1,0 +1,20 @@
+﻿using Microsoft.EntityFrameworkCore;
+using SWKOM_SAWA_KIM.DAL.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SWKOM_SAWA_KIM.DAL.Data
+{
+    public class ApplicationDbContext : DbContext
+    {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Document> Documents { get; set; } 
+    }
+}

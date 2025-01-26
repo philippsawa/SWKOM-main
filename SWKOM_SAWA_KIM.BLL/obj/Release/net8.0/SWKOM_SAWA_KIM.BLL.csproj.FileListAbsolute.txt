@@ -1,0 +1,16 @@
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\bin\Release\net8.0\appsettings.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\bin\Release\net8.0\SWKOM_SAWA_KIM.BLL.deps.json
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\bin\Release\net8.0\SWKOM_SAWA_KIM.BLL.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\bin\Release\net8.0\SWKOM_SAWA_KIM.BLL.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\bin\Release\net8.0\SWKOM_SAWA_KIM.DAL.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\bin\Release\net8.0\SWKOM_SAWA_KIM.DAL.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SAWA_KIM.BLL.csproj.AssemblyReference.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SAWA_KIM.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SAWA_KIM.BLL.AssemblyInfoInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SAWA_KIM.BLL.AssemblyInfo.cs
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SAWA_KIM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SA.D8A24E99.Up2Date
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SAWA_KIM.BLL.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\refint\SWKOM_SAWA_KIM.BLL.dll
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\SWKOM_SAWA_KIM.BLL.pdb
+C:\Users\Minu\Dev\FH\swen3\SWKOM_SAWA_KIM\SWKOM_SAWA_KIM.BLL\obj\Release\net8.0\ref\SWKOM_SAWA_KIM.BLL.dll

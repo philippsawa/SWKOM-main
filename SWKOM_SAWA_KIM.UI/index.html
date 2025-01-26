@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Dashboard</title>
+	<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+	<h1>Welcome to the Dashboard</h1>
+	<p id="message">Loading data from Sprint 1 WebServer...</p>
+
+	<h2>Uploaded Documents</h2>
+	<div id="uploadedDocuments">
+		<h3>Available Documents:</h3>
+		<ul id="documentList"></ul>
+	</div>
+
+	<h2>Upload PDF File</h2>
+	<form id="uploadForm" enctype="multipart/form-data">
+		<input type="file" id="pdfUpload" accept=".pdf" required>
+		<button type="submit">Upload</button>
+	</form>
+	<p id="response">Response from upload will be here</p>
+
+	<h2>Search Documents</h2>
+	<form id="searchForm">
+		<input type="text" id="searchInput" placeholder="Enter search term" required>
+		<button type="submit">Search</button>
+	</form>
+	<div id="searchResults">
+		<h3>Search Results:</h3>
+		<ul id="resultsList"></ul>
+	</div>
+
+	<script src="js/site.js"></script>
+	<script>
+		// Load uploaded documents on page load
+		function loadUploadedDocuments() {
+			fetch('http://localhost/api/documents') // Replace with your endpoint
+				.then(response => response.json())
+				.then(data => {
+					const documentList = document.getElementById('documentList');
+					documentList.innerHTML = ''; // Clear previous list
+
+					if (data.length === 0) {
+						documentList.innerHTML = '<li>No documents uploaded yet.</li>';
+					} else {
+						data.forEach(doc => {
+							const listItem = document.createElement('li');
+							listItem.textContent = doc.filename; // Display only the filename
+							documentList.appendChild(listItem);
+						});
+					}
+				})
+				.catch(error => {
+					console.error('Error fetching uploaded documents:', error);
+					document.getElementById('message').textContent = 'Error loading uploaded documents.';
+				});
+		}
+
+		// Handle file upload
+		document.getElementById('uploadForm').addEventListener('submit', function (event) {
+			event.preventDefault();
+
+			const fileInput = document.getElementById('pdfUpload');
+			const file = fileInput.files[0];
+
+			if (!file) {
+				alert('Please select a PDF file to upload.');
+				return;
+			}
+
+			if (file.type !== 'application/pdf') {
+				alert('Only PDF files are allowed.');
+				return;
+			}
+
+			const formData = new FormData();
+			formData.append('file', file);
+
+			fetch('http://localhost/api/upload', {
+				method: 'POST',
+				body: formData
+			})
+				.then(response => response.text())
+				.then(data => {
+					document.getElementById('response').textContent = data;
+					loadUploadedDocuments(); // Reload the list of documents after upload
+				})
+				.catch(error => {
+					console.error('Error:', error);
+					document.getElementById('response').textContent = 'An error occurred during the upload.';
+				});
+		});
+
+		// Handle search
+		document.getElementById('searchForm').addEventListener('submit', function (event) {
+			event.preventDefault();
+
+			const searchInput = document.getElementById('searchInput').value;
+
+			fetch(`http://localhost/api/search?query=${encodeURIComponent(searchInput)}`)
+				.then(response => response.json())
+				.then(data => {
+					const resultsList = document.getElementById('resultsList');
+					resultsList.innerHTML = ''; // Clear previous results
+
+					if (data.length === 0) {
+						resultsList.innerHTML = '<li>No results found</li>';
+					} else {
+						data.forEach(doc => {
+							const listItem = document.createElement('li');
+							listItem.textContent = `Title: ${doc.filename}, Content: ${doc.content}`;
+							resultsList.appendChild(listItem);
+						});
+					}
+				})
+				.catch(error => {
+					console.error('Error fetching search results:', error);
+					document.getElementById('searchResults').textContent = 'An error occurred while fetching search results.';
+				});
+		});
+
+		// Load documents on page load
+		window.onload = loadUploadedDocuments;
+	</script>
+</body>
+</html>
